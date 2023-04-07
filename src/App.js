@@ -1,11 +1,10 @@
 import React from 'react'
-import Displaytable from './Displaytable'
-
+import RecipeApp from './RecipeApp'
 
 const App = () => {
   return (
     <div>
-      <Displaytable/>
+      <RecipeApp/>
     </div>
   )
 }

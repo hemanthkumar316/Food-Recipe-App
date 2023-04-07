@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cement",
+    "uom": "Bags",
+    "price":400,
+    "qty": 10
+  },
+  {
+    "name": "Steel",
+    "uom": "Kgs",
+    "price":200,
+    "qty": 10
+  },
+  {
+    "name": "Glass",
+    "uom": "Nos",
+    "price":200,
+    "qty": 10
+  },
+  {
+    "name": "Pipe",
+    "uom": "Mtrs",
+    "price":300,
+    "qty": 10
+  },
+  {
+    "name": "Wooden door",
+    "uom": "Nos",
+    "price":200,
+    "qty": 2
+  }
+]
