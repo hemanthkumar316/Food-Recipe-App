@@ -6,11 +6,11 @@ const RecipeItems = (props) => {
     <>
 <div className='container mt-5'>
 <div className='row'>
-<div className='card text-center border-dark'>
+<div className='card text-center'style={{border:'4px solid blue',}}>
 <div className='card-body'>
 <div className='row'>
 <div className='col col-md-3 mt-5'>
-<img src={image} alt={name} className='img-fluid rounded-pill'/>
+<img src={image} alt={name} className='img-fluid rounded-pill' style={{border:'10px solid black',outline:'6px solid red'}}/>
 <h2 className='card-label mt-2 text-danger'>{name}</h2>
 </div>
 <div className='col col-md-9'>

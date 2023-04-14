@@ -1,10 +1,10 @@
 import React from 'react'
-import RecipeApp from './RecipeApp'
+import ReciepeApp from './RecipeApp'
 
 const App = () => {
   return (
     <div>
-      <RecipeApp/>
+     <ReciepeApp/>
     </div>
   )
 }
